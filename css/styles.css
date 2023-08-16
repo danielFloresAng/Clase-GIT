@@ -44,3 +44,17 @@ body {
 }
 
 /* Práctica en clase */
+.dad {
+    height: 60rem;
+    width: 70%;
+    background-color: #876B91;
+    border-radius: 8px;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+.son {
+    background-color: #E2EBF3;
+    width: 30%;
+    height: 5rem;
+    margin: 2rem;
+}
