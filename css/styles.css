@@ -62,3 +62,7 @@ body {
     height: 5rem;
     margin: 2rem;
 }
+footer {
+    text-align: center;
+    background-color: #876B91;
+}
